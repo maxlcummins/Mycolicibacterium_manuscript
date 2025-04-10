@@ -1,0 +1,15 @@
+assemblies/AP023287.fna
+assemblies/GCF_001583415.1.fna
+assemblies/GCF_010728155.1.fna
+assemblies/GCF_010731695.1.fna
+assemblies/GCF_014218295.1.fna
+assemblies/GCF_015910495.1.fna
+assemblies/GCF_016313185.1.fna
+assemblies/GCF_017352375.1.fna
+assemblies/GCF_022179545.1.fna
+assemblies/GCF_023015925.1.fna
+assemblies/GCF_030519285.1.fna
+assemblies/GCF_900187065.1.fna
+assemblies/GCF_900603025.1.fna
+assemblies/NZ_AP022586.fna
+assemblies/TPG_MSP_01.fna
